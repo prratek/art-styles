@@ -1,1 +1,1 @@
-# art_styles
+# art-styles
